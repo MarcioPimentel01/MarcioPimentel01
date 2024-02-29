@@ -6,29 +6,32 @@ Embarked on an exciting journey at the UCF Coding Bootcamp, where I am immersed 
 
 - [About](#about)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
-Briefly describe what your project does, why it exists, and its key features. Mention the problem it solves or the goals it achieves.
+The UCF Coding Bootcamp is an intensive, hands-on program designed to equip participants with the skills needed for a successful career in web development. Offering a comprehensive curriculum, real-world projects, and expert instruction, it provides a dynamic learning experience to master coding languages and technologies.
 
 ## Features
 
-Highlight the key features of your project. Consider using bullet points for better readability.
+The program covers the following elements.
 
-- Feature 1
-- Feature 2
-- ...
+- HTML and CSS
+- Git
+- JavaScript
+- Third-party APIs (jQuery, Bootstrap)
+- Server-side APINode.js
+- Object-oriented programming (OOP)
+- Express.js servers
+- MySQL
+- Object-relational mapper, or ORM (Sequelize)
+- Model-view-controller (MVC) framework (Handlebars.js)
+- Unit testing
+- Agile methodology
+- Renders, AJAX, and JSON
+- Computer science
+- MongoDB and NoSQL
+- Progressive web apps (PWAs)
+- React
+- MERN
+- Portfolios
 
-## Getting Started
-
-Provide instructions on how to get a copy of your project up and running on a local machine. Include any prerequisites, installation steps, and configuration details.
-
-```bash
-# Example command to install dependencies
-npm install
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciopimentel01&theme=dark&show_icons=true)
