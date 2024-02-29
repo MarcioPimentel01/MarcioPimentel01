@@ -1,8 +1,8 @@
-# Project Title
+# Currently enrolled in the UCF Coding Bootcamp.
 
-A concise and compelling description of your project.
+Embarked on an exciting journey at the UCF Coding Bootcamp, where I am immersed in cutting-edge technologies, hands-on projects, and collaborative learning. Sharpening my coding skills to thrive in the world of tech innovation. #UCFCodingBootcampExperience 🚀💻
 
-## Table of Contents
+## Description of the UCF Coding Bootcamp
 
 - [About](#about)
 - [Features](#features)
