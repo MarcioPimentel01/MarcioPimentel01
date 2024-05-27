@@ -1,6 +1,6 @@
 # Currently enrolled in the UCF Coding Bootcamp.
 
-Embarked on an exciting journey at the UCF Coding Bootcamp, where I am immersed in cutting-edge technologies, hands-on projects, and collaborative learning. Sharpening my coding skills to thrive in the world of tech innovation. #UCFCodingBootcampExperience 🚀💻
+Diving into the UCF Coding Bootcamp, I am fully immersed in cutting-edge technologies, hands-on projects, and collaborative learning experiences. I'm honing my coding skills and preparing to excel in the dynamic world of tech innovation. #UCFCodingBootcampExperience 
 
 ## Description of the UCF Coding Bootcamp
 
