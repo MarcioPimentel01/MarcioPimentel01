@@ -95,7 +95,7 @@ The UCF Coding Bootcamp is an intensive, hands-on program designed to equip part
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MarcioPimentel01">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasCalle&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ThomasCalle's GitHub stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcioPimentel01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MarcioPimentel01's GitHub stats" width="500"/>
 </a>
 <a href="https://github.com/MarcioPimentel01">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioPimentel01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="267"/>
