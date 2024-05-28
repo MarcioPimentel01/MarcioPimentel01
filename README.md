@@ -1,4 +1,8 @@
-# Currently enrolled in the UCF Coding Bootcamp.
+# Hi, I'm Marcio Pimentel 👋
+
+I'm studing to became  a MERN Full-Stack Developer with a knack for building scalable web applications.
+
+## Currently enrolled in the UCF Coding Bootcamp.
 
 Diving into the UCF Coding Bootcamp, I am fully immersed in cutting-edge technologies, hands-on projects, and collaborative learning experiences. I'm honing my coding skills and preparing to excel in the dynamic world of tech innovation. #UCFCodingBootcampExperience 
 
