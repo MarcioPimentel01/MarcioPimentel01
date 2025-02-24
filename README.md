@@ -1,6 +1,6 @@
 # Hi, I'm Marcio Pimentel 👋
 
-I'm studing to became  a MERN Full-Stack Developer with a knack for building scalable web applications.
+I'm studying to became  a MERN Full-Stack Developer with a knack for building scalable web applications.
 
 ## Currently enrolled in the UCF Coding Bootcamp.
 
