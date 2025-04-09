@@ -1,6 +1,6 @@
 <br>
 
-![Profile banner](https://github.com/MarcioPimentel01/MarcioPimentel01/blob/main/GitHub%20banner.png)
+![Profile banner](https://github.com/MarcioPimentel01/MarcioPimentel01/blob/main/assets/img/GitHub%20banner.png)
 
 <br>
 
