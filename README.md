@@ -1,10 +1,12 @@
 # Hi, I'm Marcio Pimentel 👋
 
-I'm studying to became  a MERN Full-Stack Developer with a knack for building scalable web applications.
+I'm a passionate Full-Stack Developer with a focus on building real-world solutions that connect hardware and software.
 
-## Currently enrolled in the UCF Coding Bootcamp.
+🚀 My journey includes:
+- Learning through the UCF Coding Bootcamp, where I explored web development foundations and hands-on projects.
+- Currently self-driven, working on advanced projects like a Swim Lap Control System using Raspberry Pi, UWB, and real-time web technologies.
 
-Diving into the UCF Coding Bootcamp, I am fully immersed in cutting-edge technologies, hands-on projects, and collaborative learning experiences. I'm honing my coding skills and preparing to excel in the dynamic world of tech innovation. #UCFCodingBootcampExperience 
+🧩 I love connecting the physical and digital worlds through code, bringing ideas to life!
 
 
 ## About
