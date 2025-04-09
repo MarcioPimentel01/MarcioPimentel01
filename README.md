@@ -1,7 +1,7 @@
 
  <br>
 
- ![imaeg alt](https://github.com/MarcioPimentel01/MarcioPimentel01/blob/main/GitHub%20banner.png)
+ ![image alt](https://github.com/MarcioPimentel01/MarcioPimentel01/blob/main/GitHub%20banner.png)
 
  <br>
 
