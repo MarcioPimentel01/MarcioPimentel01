@@ -1,9 +1,8 @@
+<br>
 
- <br>
+![Profile banner](https://github.com/MarcioPimentel01/MarcioPimentel01/blob/main/GitHub%20banner.png)
 
- ![image alt](https://github.com/MarcioPimentel01/MarcioPimentel01/blob/main/GitHub%20banner.png)
-
- <br>
+<br>
 
 # Hi, I'm Marcio Pimentel 👋
 
@@ -98,3 +97,4 @@ I'm passionate about turning ideas into working prototypes and constantly learni
 ---
 
 *Created with passion by [Marcio Pimentel](https://github.com/MarcioPimentel01)*
+
