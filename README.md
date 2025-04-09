@@ -1,3 +1,5 @@
+
+ ![imaeg alt](https://github.com/MarcioPimentel01/MarcioPimentel01/blob/main/GitHub%20banner.png)
 # Hi, I'm Marcio Pimentel 👋
 
 I'm a passionate Full-Stack Developer with a focus on building real-world solutions that connect hardware and software.
@@ -6,12 +8,14 @@ I'm a passionate Full-Stack Developer with a focus on building real-world soluti
 - Learning through the UCF Coding Bootcamp, where I explored web development foundations and hands-on projects.
 - Currently self-driven, working on advanced projects like a Swim Lap Control System using Raspberry Pi, UWB, and real-time web technologies.
 
+I'm currently working on hands-on projects that blend **hardware and software**, including real-time swim tracking systems with UWB technology, Raspberry Pi, and custom interfaces. Passionate about turning ideas into working prototypes, and always looking to learn and grow as a developer.
+
 🧩 I love connecting the physical and digital worlds through code, bringing ideas to life!
 
-
-## About
-
-The UCF Coding Bootcamp is an intensive, hands-on program designed to equip participants with the skills needed for a successful career in web development. Offering a comprehensive curriculum, real-world projects, and expert instruction, it provides a dynamic learning experience to master coding languages and technologies.
+## 🚧 Current Projects
+- **Swim Tracking System**: Real-time lap counter and analytics for swimmers, using Raspberry Pi and UWB sensors.
+- **HTML & CSS Only Projects**: Building creative and responsive web projects to sharpen design and layout skills.
+- **Build Logs**: Sharing progress and lessons learned in a dedicated section of my portfolio.
 
 ## Frontend Technologies
 <p align="left">
@@ -94,16 +98,21 @@ The UCF Coding Bootcamp is an intensive, hands-on program designed to equip part
 </a>
 
 ## 🌐 Connect with Me
-
 - **Email:** [marciorpimentel@hotmail.com](mailto:marciorpimentel@hotmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/marciorpimentel/](https://www.linkedin.com/in/marciorpimentel/)
-- **X:** [https://x.com/MarcioP1000](https://x.com/MarcioP1000)
+---
+
+<p><a target="_blank" href="https://twitter.com/https://x.com/MarcioP1000" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
+
+<a target="_blank" href="undefinedhttps://medium.com/@MarcioPimentel" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/marciorpimentel/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /> </a> 
+
 
 ## ✍️ Blog & Articles
 
-Read my latest thoughts on web development:
+Read my latest thoughts on web development at Medium:
 
-- [Your Blog Name](https://yourblog.com)
+- [@Marcio Pimentel](https://medium.com/@MarcioPimentel)
 
 ## 🎨 Fun Facts
 - 🧠 Lifelong learner and problem solver.
@@ -113,3 +122,5 @@ Read my latest thoughts on web development:
 ---
 
 *Created with passion by [Marcio Pimentel](https://github.com/MarcioPimentel01)*
+
+
